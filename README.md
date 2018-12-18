@@ -1,6 +1,8 @@
 ## Meu Portfólio
 Wanderson Nunes, 18
+
 Estudante do IFRN que cursa Jogos Digitais
+
 Roteirista, criador de personagens e narrativas. Futuro Game Design
 
 You can use the [editor on GitHub](https://github.com/Scarlleon/Scarlleon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
