@@ -32,7 +32,7 @@ Roteirista, criador de personagens e narrativas. Futuro Game Design
 
 **Size Companions**:
 
-(https://danilo25.github.io/SizeCompanions2/)
+<a href="https://danilo25.github.io/SizeCompanions2/" target="_blank"> ![imagem](sc.png) </a>
 
 **Cozinha Maluca**:
 
