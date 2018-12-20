@@ -36,7 +36,9 @@ Roteirista, criador de personagens e narrativas. Futuro Game Design
 
 **Cozinha Maluca**:
 
-(https://hadssajordana7.github.io/cozinhamaluca/)
+<a href="https://hadssajordana7.github.io/cozinhamaluca/" target="_blank"> ![imagem](cm.png) </a>
+
+
 
 
 You can use the [editor on GitHub](https://github.com/Scarlleon/Scarlleon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
