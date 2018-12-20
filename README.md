@@ -7,21 +7,27 @@ Roteirista, criador de personagens e narrativas. Futuro Game Design
 
 ## Contatos 
 1: Pinterest
-
+[https://br.pinterest.com/wandersonngg/]
 2: Facebook:
-
+(https://www.facebook.com/wanderson.nunesgomes)
 3: Discord:
 
 4: E-mail:
+[Outlook:] [wandersonngg@hotmail.com]
+[Gmail:] [blackscarlate@gmail.com]
 
 ## Projetos
 
 ## Jogos
 
+**Midnight Despair
+(Scarlleon.github.io/MidnightDespair/)
+
 **Size Companions**:
+(https://danilo25.github.io/SizeCompanions2/)
 
 **Cozinha Maluca**:
-
+(https://hadssajordana7.github.io/cozinhamaluca/)
 
 
 You can use the [editor on GitHub](https://github.com/Scarlleon/Scarlleon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
