@@ -1,6 +1,6 @@
 ## Meu Portfólio
 
-![imagem](wands.png)
+![imagem](wands.jpg)
 
 Wanderson Nunes, 18
 
