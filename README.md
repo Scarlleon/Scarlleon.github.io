@@ -27,9 +27,8 @@ Roteirista, criador de personagens e narrativas. Futuro Game Design
 
 **Midnight Despair**
 
-![imagem](md.png)
+![imagem](md.png)(https://scarlleon.github.io/MidnightDespair/)
 
-(Scarlleon.github.io/MidnightDespair/)
 
 **Size Companions**:
 
