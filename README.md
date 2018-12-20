@@ -16,9 +16,9 @@ Roteirista, criador de personagens e narrativas. Futuro Game Design. Mestre de R
 
 2: E-mail:
 
-[Outlook:] [wandersonngg@hotmail.com]
+Outlook: wandersonngg@hotmail.com
 
-[Gmail:] [blackscarlate@gmail.com]
+Gmail: blackscarlate@gmail.com
 
 3: whatsapp:
 
