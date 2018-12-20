@@ -16,6 +16,7 @@ Roteirista, criador de personagens e narrativas. Futuro Game Design
 2: Facebook:
 
 (https://www.facebook.com/wanderson.nunesgomes)
+
 3: Discord:
 
 4: E-mail:
