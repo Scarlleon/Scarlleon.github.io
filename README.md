@@ -2,16 +2,16 @@
 
 ![imagem](wands.jpg)
 
-Wanderson Nunes, 18
+Wanderson Nunes, 18 anos
 
 Estudante do IFRN que cursa Jogos Digitais
 
-Roteirista, criador de personagens e narrativas. Futuro Game Design
+Roteirista, criador de personagens e narrativas. Futuro Game Design. Mestre de RPG de mesa.
 
 ## Contatos 
-1: Pinterest
+1: Pinterest:
 
-[https://br.pinterest.com/wandersonngg/]
+<a href="https://br.pinterest.com/wandersonngg/"target="_blank">Wanderson Nunes </a>
 
 2: Facebook:
 
